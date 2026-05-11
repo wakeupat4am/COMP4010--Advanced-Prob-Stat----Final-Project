@@ -1,1 +1,2 @@
-# COMP4010--Advanced-Prob-Stat----Final-Project
+# COMP4010 - Final Project - Group 6
+
